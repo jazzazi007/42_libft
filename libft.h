@@ -12,9 +12,10 @@
 
 #ifndef LIBFT_H
 # define LIBFT_H
-
+#include "../include/push_swap.h"
 # include <stdlib.h>
 # include <unistd.h>
+
 // functions
 int		ft_atoi(const char *str);
 void	ft_bzero(void *s, size_t n);
