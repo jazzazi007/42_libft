@@ -12,7 +12,6 @@
 
 #ifndef LIBFT_H
 # define LIBFT_H
-#include "../include/push_swap.h"
 # include <stdlib.h>
 # include <unistd.h>
 
